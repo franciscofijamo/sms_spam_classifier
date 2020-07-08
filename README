@@ -1,0 +1,21 @@
+Classificador de SPAM com NAIVE BAYES
+
+Este projecto é uma demostração do uso do Algoritmo de Naive bayes para classificação de textos.
+Neste exemplo em específico foi implementado na linguagem R.
+As bibliotecas usadas pode ser encontradas abaixo.
+
+para instalar basta rodar o comando
+
+install.packages()
+
+
+Pacotes a instalar:
+
+library(tm) # text mining
+library(SnowballC) 
+library(wordcloud) # viz wordcloud
+library(e1071) # naive B package
+library(gmodels) #confusion matriz
+library(corpus)
+
+
